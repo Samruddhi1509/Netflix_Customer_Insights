@@ -15,7 +15,8 @@ Data Cleaning & Preparation
 *Key Insights & Recommendations*
 Our analysis revealed that Romance and Drama dominate overall watch time, while Comedy is emerging as a promising growth lever for specific audience groups. To capitalize on this, the platform should invest in expanding Comedy and Documentary content, as they perform close to the top genres and could drive overall watch time higher.
 
-We also found that a significant share of users have not logged in for 15+ days, indicating potential churn risk. This segment represents a clear opportunity for reactivation. Personalized re-engagement campaigns—such as tailored emails, push notifications, or targeted ads that highlight trending shows in users’ preferred genres—can help bring these customers back.
+We also found that a significant share of users h<img width="473" height="351" alt="Screenshot 2025-09-22 at 4 35 39 PM" src="https://github.com/user-attachments/assets/2d8688eb-9c2c-4aed-8fec-3d837e6c4a5a" />
+ave not logged in for 15+ days, indicating potential churn risk. This segment represents a clear opportunity for reactivation. Personalized re-engagement campaigns—such as tailored emails, push notifications, or targeted ads that highlight trending shows in users’ preferred genres—can help bring these customers back.
 
 In terms of demographics, senior citizens (65+) make up the largest share of the audience, while user numbers remain steady across the 25–54 group. However, teen users (<17) are the least active on the platform. Introducing more youth-oriented content, such as trending series, gamified features, or exclusive releases for this demographic, could strengthen retention and broaden the platform’s customer base.
 
